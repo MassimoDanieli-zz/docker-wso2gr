@@ -1,5 +1,5 @@
 #
-# WSO2 Governance Registry 4.6.0
+# WSO2 Governance Registry 5.0.0
 #
 FROM java:7
 MAINTAINER Massimo Danieli, massimo@massimodanieli.com
